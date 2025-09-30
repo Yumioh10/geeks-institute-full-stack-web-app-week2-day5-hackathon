@@ -203,3 +203,6 @@ Feel free to fork and extend for your own use.
 
 This project is for educational purposes.
 Feel free to fork and extend for your own use.
+
+Here is the link of video explaining the walkthrough of the project:
+https://www.loom.com/share/ddc202403860441994a3abfe2ce87617?sid=68e846d4-29a2-406d-b7af-787c79b4d4b1
